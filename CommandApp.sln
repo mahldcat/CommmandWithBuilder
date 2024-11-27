@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandLine.Driver", "CommandLine.Driver\CommandLine.Driver.csproj", "{856CFEFB-2928-4AC3-8085-94485359C07E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandLine.Service", "CommandLine.Service\CommandLine.Service.csproj", "{D04BBFA7-2FEF-415B-AD82-2515DDF3B24D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856CFEFB-2928-4AC3-8085-94485359C07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856CFEFB-2928-4AC3-8085-94485359C07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856CFEFB-2928-4AC3-8085-94485359C07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856CFEFB-2928-4AC3-8085-94485359C07E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04BBFA7-2FEF-415B-AD82-2515DDF3B24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04BBFA7-2FEF-415B-AD82-2515DDF3B24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04BBFA7-2FEF-415B-AD82-2515DDF3B24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04BBFA7-2FEF-415B-AD82-2515DDF3B24D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
